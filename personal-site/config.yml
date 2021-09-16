@@ -1,0 +1,27 @@
+baseURL: https://alabugin.dev/
+languageCode: en-us
+title: alabugin.dev
+theme: PaperMod
+
+params:
+    profileMode:
+        enabled: true
+        title: "Vasiliy Alabugin"
+        subtitle: "Scala developer. Functional programming enthusiast."
+        imageUrl: "me.jpg" 
+        imageTitle: "profile picture" 
+        imageWidth: 240 
+        imageHeight: 240 
+        # buttons:
+        #       - name: "name"
+        #         url: "url"
+
+    socialIcons:
+        - name: Telegram
+          url: "https://telegram.me/civilian"
+        - name: LinkedIn
+          url: "https://www.linkedin.com/in/vasiliy-alabugin/"
+        - name: Github
+          url: "https://github.com/ecat3"
+        - name: email
+          url: "mailto:vasiliy@alabugin.dev"
