@@ -12,10 +12,9 @@ params:
         imageTitle: "profile picture" 
         imageWidth: 240 
         imageHeight: 240 
-        # buttons:
-        #       - name: "name"
-        #         url: "url"
-
+        buttons:
+              - name: "My CV"
+                url: "CV.pdf"
     socialIcons:
         - name: Telegram
           url: "https://telegram.me/civilian"
